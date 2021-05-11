@@ -21,6 +21,6 @@ In this story, I was instructed to create an Application User for a Cast Directo
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/CastDirectorUser.jpg?raw=true)
 ### Seed Method
 To test out the above Cast Director class, I had to create a seed method. I created an instance of the Cast Director to seed the database, where it is saved to the database before the page is loaded for testing purposes. I wrote the method in the Cast Director class and called the method in the Configuration Seed method. As a result, the method seeded one Cast Director into the database. I had to also create a user role and assign it to the Cast Director being seeded. I then set the properties to my choosing, and ensured to add a password. 
-![alt text](https://github.com/bstarika/LiveProject/blob/main/CastDirectorSeedMethod.jpg?raw=true)
+![alt text](https://github.com/bstarika/LiveProject/blob/main/SeedMethod.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

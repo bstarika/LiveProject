@@ -2,7 +2,7 @@
 ## Introduction:
 I was able to gain real-world experience during the Live Project at The Tech Academy. We worked on a MVC Web Application, utilizing both front / [back-end development](#back-end-development) and agile methodologies. It was a two week sprint, and during that time I was able to complete four stories and participate in daily standups - including a code retrospective. Our team used Azure Devops for the project, Visual Studio as an IDE, and Slack for communication. Thanks to the final project, I now can confidently navigate Visual Studio and understand the workflow for clean Version Control. I know how to create branches, update the local master branch, push code, create pull requests, resolve merge conflicts, and so much more.
 ## Back-End Development:
-[Helper Method]{#helper-method), [Entity Model and CRUD Pages](#entity-model-and-crud-functionality)
+[Helper Method](#helper-method), [Entity Model and CRUD Pages](#entity-model-and-crud-functionality)
 ### Helper Method
 My first story consisted of writing a helper function that was used to limit the number of characters that were displayed using ellipses. I created a static method in a C# class that took in a string and an integer. The string was the content that we were trying to truncate and the integer represented how many characters were allowed before cutting off the string and adding ellipses ( . . . ). I had to test my method in the Index page to ensure it worked before submitting. 
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/HelperMethod.jpg?raw=true)

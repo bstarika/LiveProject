@@ -9,5 +9,6 @@ Testing the helper method by setting the int limit to 50.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/TestingHelperMethod.jpg?raw=true)
 ### Entity Model and CRUD Functionality
 For this story, I had to create an entity model for the CastMember class so that cast members could be saved to the database. There were 3 parts to this story. I had to create the model for CastMember, an enum for positions, and then CRUD functionality.  
+![alt text](https://github.com/bstarika/LiveProject/blob/main/EntityModelandEnum.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

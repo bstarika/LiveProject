@@ -15,5 +15,6 @@ Below I created an Entity Model for the CastMember class so that cast members co
 Scaffolded Cast Member with CRUD functionality - a code generation technique to allow for database access.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/CRUDScaffolding.jpg?raw=true) <br>
 Added updates to database by adding DbSet and "update-database" command with NuGet's Package Manager Console.
+![alt text](https://github.com/bstarika/LiveProject/blob/main/UpdateDatabase.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

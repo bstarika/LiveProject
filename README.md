@@ -17,7 +17,7 @@ Scaffolded Cast Member controller with CRUD functionality - a code generation te
 Migrated changes and added table by adding DbSet and using the "update-database" command with NuGet's Package Manager Console.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/UpdateDatabase.jpg?raw=true)
 ### Creating User 
-In this story, I was instructed to create a Application User for a Cast Director. This user was a admin in my assigned section (Productions). I created a new model for the Cast Director that extends from the Application User. I didn't add the Cast Director to the ApplicationDbContext as they wanted a TPH, or a Table Per Hierarchy structure where there are multiple classes in one table. I then added two int properties to show the number of people the Cast Director has hired and fired.
+In this story, I was instructed to create an Application User for a Cast Director. This user was an admin in my assigned section (Productions). I created a new model for the Cast Director that extends from the Application User. I didn't add the Cast Director to the ApplicationDbContext as they wanted a TPH, or a Table Per Hierarchy structure where there were multiple classes in one table. I then added two int properties to show the number of people that the Cast Director has hired and fired.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/CastDirectorUser.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

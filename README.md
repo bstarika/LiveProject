@@ -1,6 +1,6 @@
 # Live Project
 ## Introduction:
-I was able to gain real-world experience during the Live Project at The Tech Academy. We worked on a MVC Web Application, utilizing both front / [back-end development](#back-end-development) and agile methodologies. It was a two week sprint, and during that time I was able to complete four stories and participate in daily standups - including a code retrospective. Our team used Azure Devops for the project, Visual Studio as an IDE, and Slack for communication. Thanks to the final project, I now can confidently navigate Visual Studio and understand the workflow for clean Version Control. I know how to create branches, update the local master branch, push code, create pull requests, resolve merge conflicts, and so much more.
+I was able to gain real-world experience during the Live Project at The Tech Academy. We worked on a MVC Web Application for a Theatre, utilizing both front / [back-end development](#back-end-development) and agile methodologies. It was a two week sprint, and during that time I was able to complete five stories and participate in daily standups - including a code retrospective. Our team used Azure Devops for the project, Visual Studio as an IDE, and Slack for communication. Thanks to the final project, I now can confidently navigate Visual Studio and understand the workflow for clean Version Control. I know how to create branches, update the local master branch, push code, create pull requests, resolve merge conflicts, and so much more.
 ## Back-End Development:
 [Helper Method](#helper-method), [Entity Model and CRUD Pages](#entity-model-and-crud-functionality)
 ### Helper Method
@@ -16,5 +16,8 @@ Scaffolded Cast Member controller with CRUD functionality - a code generation te
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/CRUDScaffolding.jpg?raw=true) <br>
 Migrated changes and added table by adding DbSet and using the "update-database" command with NuGet's Package Manager Console.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/UpdateDatabase.jpg?raw=true)
+### Creating User 
+In this story, I was instructed to create a Application User for a Cast Director. This user was a admin in my assigned section (Productions). I created a new model for the Cast Director that extends from the Application User. I didn't add the Cast Director to the ApplicationDbContext as they wanted a TPH, or a Table Per Hierarchy structure where there are multiple classes in one table. I then added two int properties to show the number of people the Cast Director has hired and fired.
+![alt text](https://github.com/bstarika/LiveProject/blob/main/CastDirectorUser.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

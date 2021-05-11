@@ -5,5 +5,8 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ### Helper Method
 I had to write a helper function that was used to limit the number of characters that were displayed using ellipses. I created a static method in a C# class that took in a string and an integer. The string was the content that we were trying to truncate and the integer represented how many characters were allowed before cutting off the string and adding ellipses ( . . . ). I had to test my method in the Index page to ensure it worked before submitting. 
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/HelperMethod.jpg?raw=true)
+Testing the helper method by setting the int limit to 50.
+![alt text](https://github.com/bstarika/LiveProject/blob/main/TestingHelperMethod.jpg?raw=true)
+
 
 

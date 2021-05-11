@@ -26,4 +26,6 @@ In this story, I was instructed to create an Application User for a Cast Directo
 To test out the above Cast Director class, I had to create a seed method. I created an instance of the Cast Director to seed the database, where it is saved to the database before the page is loaded for testing purposes. I wrote the method in the Cast Director class and called the method in the Configuration Seed method. As a result, the method seeded one Cast Director into the database. I had to also create a user role and assign it to the Cast Director being seeded. I then set the properties to my choosing, and ensured to add a password. 
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/SeedMethod.jpg?raw=true)
 ## Front-End Development:
+During the live project, I completed the stylesheet for the CRUD page. I used MVC's Razor-based templates to create HTML output with C# and CSS. I placed a form in a container, added placeholder text, and stylized the pages per Project Manager's preferences and color recommendations. Here is a snippit of how I combined CSS into the Razor page (.cshtml) of Cast Member's Create and Edit Page. 
+![alt text](https://github.com/bstarika/LiveProject/blob/main/StyleSheet.jpg?raw=true)
 ## Agile Methodologies:

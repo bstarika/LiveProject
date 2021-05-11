@@ -9,12 +9,12 @@ My first story consisted of writing a helper function that was used to limit the
 Testing the helper method by setting the int limit to 50.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/TestingHelperMethod.jpg?raw=true)
 ### Entity Model and CRUD Functionality
-There were 3 parts to this story: Creating a model for CastMember, an enum for positions, and CRUD functionality. <br>
+There were 3 parts to this story: Create a model for CastMember, an enum for positions, and CRUD functionality. <br>
 Below I created an Entity Model for the CastMember class so that cast members could be saved to the database. The "?" indicates the property is nullable. I also created a Position Enum for the Main Role.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/EntityModelandEnum.jpg?raw=true) <br>
-Scaffolded Cast Member with CRUD functionality - a code generation technique to allow for database access.
+Scaffolded Cast Member controller with CRUD functionality - a code generation technique to allow for database access.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/CRUDScaffolding.jpg?raw=true) <br>
-Added updates to database by adding DbSet and "update-database" command with NuGet's Package Manager Console.
+Migrated changes and added table by adding DbSet and using the "update-database" command with NuGet's Package Manager Console.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/UpdateDatabase.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

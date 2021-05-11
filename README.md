@@ -8,7 +8,7 @@ My first story consisted of writing a helper function that was used to limit the
 Testing the helper method by setting the int limit to 50.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/TestingHelperMethod.jpg?raw=true)
 ### Entity Model and CRUD Functionality
-There were 3 parts to this story: Creating a model for CastMember, an enum for positions, and CRUD functionality. 
+There were 3 parts to this story: Creating a model for CastMember, an enum for positions, and CRUD functionality. <br>
 Below I created an Entity Model for the CastMember class so that cast members could be saved to the database. The "?" indicates the property is nullable. I also created a Position Enum for the Main Role.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/EntityModelandEnum.jpg?raw=true)
 ## Front-End Development:

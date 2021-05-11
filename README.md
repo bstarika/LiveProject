@@ -19,5 +19,7 @@ Migrated changes and added table by adding DbSet and using the "update-database"
 ### Creating User 
 In this story, I was instructed to create an Application User for a Cast Director. This user was an admin in my assigned section (Productions). I created a new model for the Cast Director that extends from the Application User. I didn't add the Cast Director to the ApplicationDbContext as they wanted a TPH, or a Table Per Hierarchy structure where there were multiple classes in one table. I then added two int properties to show the number of people that the Cast Director has hired and fired.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/CastDirectorUser.jpg?raw=true)
+### Seed Method
+To test out the above Cast Director class, I had to create a seed method. I created an instance of the Cast Director to seed the database, where it is saved to the database before the page is loaded for testing purposes. I wrote the method in the Cast Director class and called the method in the Configuration Seed method. As a result, the method seeded one Cast Director into the database. I had to also create a user role and assign it to the Cast Director being seeded. I then set the properties to my choosing, and ensured to add a password. 
 ## Front-End Development:
 ## Agile Methodologies:

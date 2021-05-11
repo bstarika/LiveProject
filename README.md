@@ -13,7 +13,7 @@ There were 3 parts to this story: Creating a model for CastMember, an enum for p
 Below I created an Entity Model for the CastMember class so that cast members could be saved to the database. The "?" indicates the property is nullable. I also created a Position Enum for the Main Role.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/EntityModelandEnum.jpg?raw=true) <br>
 Scaffolded Cast Member with CRUD functionality - a code generation technique to allow for database access.
-![alt text](https://github.com/bstarika/LiveProject/blob/main/CRUDScaffolding.jpg?raw=true)
+![alt text](https://github.com/bstarika/LiveProject/blob/main/CRUDScaffolding.jpg?raw=true) <br>
 Added updates to database by adding DbSet and "update-database" command with NuGet's Package Manager Console.
 ## Front-End Development:
 ## Agile Methodologies:

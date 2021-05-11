@@ -11,5 +11,7 @@ Testing the helper method by setting the int limit to 50.
 There were 3 parts to this story: Creating a model for CastMember, an enum for positions, and CRUD functionality. <br>
 Below I created an Entity Model for the CastMember class so that cast members could be saved to the database. The "?" indicates the property is nullable. I also created a Position Enum for the Main Role.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/EntityModelandEnum.jpg?raw=true)
+Scaffolded Cast Member with CRUD functionality - a code generation technique to allow for database access.
+![alt text](https://github.com/bstarika/LiveProject/blob/main/CRUDScaffolding.jpg?raw=true)
 ## Front-End Development:
 ## Agile Methodologies:

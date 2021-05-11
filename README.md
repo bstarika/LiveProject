@@ -4,7 +4,6 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ## Back-End Development:
 ### Helper Method
 My first story consisted of writing a helper function that was used to limit the number of characters that were displayed using ellipses. I created a static method in a C# class that took in a string and an integer. The string was the content that we were trying to truncate and the integer represented how many characters were allowed before cutting off the string and adding ellipses ( . . . ). I had to test my method in the Index page to ensure it worked before submitting. 
-<div style="text-align:center"><img src="https://github.com/bstarika/LiveProject/blob/main/HelperMethod.jpg?raw=true"/></div>
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/HelperMethod.jpg?raw=true)
 Testing the helper method by setting the int limit to 50.
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/TestingHelperMethod.jpg?raw=true)

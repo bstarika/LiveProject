@@ -29,3 +29,9 @@ To test out the above Cast Director class, I had to create a seed method. I crea
 During the live project, I completed a stylesheet for Cast Member's CRUD page. I used MVC's Razor-based template to create HTML output with C# and CSS. I placed a form in a container, added placeholder text, and stylized the pages per Project Manager's preferences and color recommendations. Here is a snippet of how I combined CSS into the Razor page (.cshtml) of Cast Member's Create Page. 
 ![alt text](https://github.com/bstarika/LiveProject/blob/main/StyleSheet.jpg?raw=true)
 ## Agile Methodologies:
+We used Agile and Scrum as our method of development. I participated in a sprint-planning meeting, daily stand-ups, and a code-retrospective to discuss what worked well and what didn't. During the daily meetings, we had to mention what we worked on the day prior, what we were going to work on the day of, and what roadblocks we were facing. It was a great way to gain soft skills. The meetings held us accountable, gave us the chance to touch base with one another and to ensure we were on track with the project and it's deadlines. It was also an opportunity to discuss things we were struggling with, which the instructors were great about reaching out and walking us through any roadblocks. My major take-aways from this project was:
+1. Be patient yet persistent. You will figure it out as long as you're determined.
+2. Even though you work on stories alone you really are apart of a team. Communicate with one another.
+3. It's OK to ask for help, it shows that you care. But do your research, you might surprise yourself and figure a lot out on your own.
+4. Code is time-consuming but extremely rewarding. The more you code and practice the more efficient you'll become. 
+5. This career was 100% meant for me. 
